@@ -1,0 +1,11 @@
+pkgbase = aliyun-python-sdk-vpc
+	pkgdesc = The vpc module of Aliyun Python sdk
+	pkgver = 3.0.10
+	pkgrel = 1
+	url = https://github.com/aliyun/aliyun-openapi-python-sdk/
+	arch = any
+	license = BSD
+	makedepends = python-pip
+
+pkgname = aliyun-python-sdk-vpc
+
